@@ -1,2 +1,2 @@
-# sample_projects
+# Portfolio
 Selected personal projects

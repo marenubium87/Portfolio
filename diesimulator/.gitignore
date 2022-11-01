@@ -1,0 +1,21 @@
+# Style Settings for yapf
+*.yapf
+
+# VS Code files
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+#Python stuff
+__pycache__/
+dist/
+
+#exe stuff
+build/
+*.spec
+
+#project-specific for die simulator
+iconbase.svg
